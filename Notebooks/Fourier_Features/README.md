@@ -12,6 +12,7 @@ Running through this file will demonstrate the following:
 3. Predicting test data using optimal models found via hyperparameter tuning on a static validation set (80-20; train-val split)
 
 ### RA/DECL_NN.py
+Running through this file will demonstrate the following:
 1. Conversion of regression model into neural network based model with 2 layers of 5 neurons each with relu activation.
 2. Fitting neural network on right ascension and declination training data with fourier features
 3. Predicting test data using optimal models found via hyperparameter tuning on a static validation set (80-20; train-val split)
