@@ -7,7 +7,7 @@ This folder contains all the code relevant to the sections:
 
 ### RA/DECL_REG.ipynb
 Running through this file will demonstrate the following:
-1. Cyclical nature of right ascension and declination
+1. Cyclical nature of right ascension and declination with proper transformations
 2. Fitting linear regression on right ascension and declination training data with fourier features
 3. Predicting test data using optimal models found via hyperparameter tuning on a static validation set (80-20; train-val split)
 
