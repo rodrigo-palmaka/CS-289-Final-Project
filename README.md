@@ -8,4 +8,3 @@ The layout of the github is as follows:
 
 2) The Notebooks folder contains all of the notebooks used to carry out our analysis. Within this folder there will be subfolders for each sub analysis we conducted. Within those documents you can find further README's that will explain what each notebook accomplishes and how to interact with it.\newline
 
-3)
