@@ -75,6 +75,6 @@ def calc_mse(data_true, data_pred):
 
 	total_squared_error = 0
 	for i in range(n):
-		total_squared_error += np.linalg.norm(error[i,:])**2
+		total_squared_error += np.linalg.norm(error[i,:])
 	mse = total_squared_error/n
 	return mse
