@@ -1,4 +1,5 @@
 # CS-289-Final-Project
+Authors: Matthew Martinez, Kristof Pusztai, Rodrigo Palmaka, Alex Gao, Norman Karr, Matthew Nemeth
 
 This Github contains the data and python notebooks necessary to replicate the analysis laid out in our final project. While the findings are summarized within our final report, the notebooks conatined here allow for a more detailed walkthrough of the steps we took on this project.
 
